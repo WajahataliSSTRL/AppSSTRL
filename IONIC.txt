@@ -1,0 +1,17 @@
+:ON TERMINAL WINDOW:VS CODE--"projectname" is title of new project we are going to creat.
+
+
+directory of folder>>ionic start projectname sidemenu
+directory of folder>>cd projectname
+directory of folder/projectname>>ionic serve
+
+This will start you project
+
+
+...
+
+
+>>ionic generate page pages/newpage
+then to to src>app>pages\newpage.. open html file.
+
+
